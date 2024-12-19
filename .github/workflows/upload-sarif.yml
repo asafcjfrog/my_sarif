@@ -1,0 +1,31 @@
+name: Upload SARIF to Code Scanning
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - '*'
+  workflow_dispatch:
+
+jobs:
+  upload-sarif:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Upload SARIF file to GitHub Code Scanning
+      - name: Upload SARIF file to Code Scanning
+        uses: github/codeql-action/upload-sarif@v2
+        with:
+          sarif_file: q.sarif
+
+      # Optional: Verify upload success
+      - name: Verify SARIF upload
+        run: |
+          echo "SARIF file uploaded successfully!"
+          echo "Check the Code Scanning section for results."
