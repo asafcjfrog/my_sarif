@@ -93,7 +93,7 @@
           ],
           "executionSuccessful": true,
           "workingDirectory": {
-            "uri": "server_gallery"
+            "uri": "file:///server_gallery"
           }
         }
       ],
@@ -108,7 +108,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "file:///C:/demo/server_gallery/app.js"
+                  "uri": "file://server_gallery/app.js"
                 },
                 "region": {
                   "startLine": 6,
@@ -141,7 +141,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "file:///C:/demo/server_gallery/app.js"
+                  "uri": "file://server_gallery/app.js"
                 },
                 "region": {
                   "startLine": 51,
@@ -172,7 +172,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 39,
@@ -195,7 +195,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 44,
@@ -218,7 +218,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 44,
@@ -241,7 +241,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 44,
@@ -264,7 +264,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 44,
@@ -287,7 +287,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 45,
@@ -310,7 +310,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 45,
@@ -333,7 +333,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 45,
@@ -356,7 +356,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 45,
@@ -379,7 +379,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 51,
@@ -402,7 +402,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 51,
@@ -437,7 +437,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "file:///C:/demo/server_gallery/app.js"
+                  "uri": "file://server_gallery/app.js"
                 },
                 "region": {
                   "startLine": 74,
@@ -468,7 +468,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 55,
@@ -491,7 +491,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 56,
@@ -514,7 +514,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 56,
@@ -537,7 +537,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 56,
@@ -560,7 +560,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 56,
@@ -583,7 +583,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 57,
@@ -606,7 +606,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 13,
@@ -629,7 +629,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 16,
@@ -652,7 +652,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 16,
@@ -675,7 +675,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 16,
@@ -698,7 +698,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 57,
@@ -721,7 +721,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 57,
@@ -744,7 +744,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 74,
@@ -767,7 +767,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 74,
@@ -802,7 +802,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "file:///C:/demo/server_gallery/app.js"
+                  "uri": "file://server_gallery/app.js"
                 },
                 "region": {
                   "startLine": 97,
@@ -833,7 +833,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 78,
@@ -856,7 +856,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 79,
@@ -879,7 +879,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 79,
@@ -902,7 +902,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 79,
@@ -925,7 +925,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 79,
@@ -948,7 +948,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 80,
@@ -971,7 +971,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 13,
@@ -994,7 +994,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 16,
@@ -1017,7 +1017,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 16,
@@ -1040,7 +1040,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 16,
@@ -1063,7 +1063,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 80,
@@ -1086,7 +1086,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 80,
@@ -1109,7 +1109,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 97,
@@ -1132,7 +1132,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "file:///C:/demo/server_gallery/app.js"
+                            "uri": "file://server_gallery/app.js"
                           },
                           "region": {
                             "startLine": 97,
@@ -1167,7 +1167,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "file:///C:/demo/server_gallery/app.js"
+                  "uri": "file://server_gallery/app.js"
                 },
                 "region": {
                   "startLine": 25,
