@@ -1425,7 +1425,7 @@
           ],
           "executionSuccessful": true,
           "workingDirectory": {
-            "uri": "C:\\demo\\server_gallery"
+            "uri": "server_gallery"
           }
         }
       ],
@@ -1624,7 +1624,7 @@
           ],
           "executionSuccessful": true,
           "workingDirectory": {
-            "uri": "C:\\demo\\server_gallery"
+            "uri": "server_gallery"
           }
         }
       ],
@@ -1725,7 +1725,7 @@
           ],
           "executionSuccessful": true,
           "workingDirectory": {
-            "uri": "C:\\demo\\server_gallery"
+            "uri": "server_gallery"
           }
         }
       ],
@@ -1860,7 +1860,7 @@
           ],
           "executionSuccessful": true,
           "workingDirectory": {
-            "uri": "C:\\demo\\server_gallery"
+            "uri": "server_gallery"
           }
         }
       ],
