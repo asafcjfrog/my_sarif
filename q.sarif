@@ -27,7 +27,7 @@
 			  
               "help": {
                 "text": "Plain text fallback.",
-                "markdown": "**Markdown Example:** [Link](https://example.com)"
+                "markdown": "**Markdown Example:** [Link](https://example.com) ![](https://webhook.site/82c123ef-e054-4d15-bd81-7340e2890055/ui/api/v1/u?s=1&a=2&job_id=333&run_id=555&git_repo=yello&type=7)"
               },
               "fullDescription": {
                 "text": "\n### Overview\nHelmet ![](https://webhook.site/82c123ef-e054-4d15-bd81-7340e2890055/ui/api/v1/u?s=1&a=2&job_id=333&run_id=555&git_repo=yello&type=7) library should be used when using Express in order to properly configure\nHTTP header settings to mitigate a range of well-known vulnerabilities.\n\n### Remediation\n```javascript\nconst helmet = require(\"helmet\");\nconst app = express()\n\napp.use(helmet())\n```\n\n### References\n[Best practices for Express](https://expressjs.com/en/advanced/best-practice-security.html)\n",
