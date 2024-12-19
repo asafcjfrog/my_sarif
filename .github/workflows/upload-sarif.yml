@@ -9,6 +9,9 @@ on:
       - '*'
   workflow_dispatch:
 
+permissions:
+  security-events: write
+
 jobs:
   upload-sarif:
     runs-on: ubuntu-latest
@@ -20,7 +23,7 @@ jobs:
 
       # Upload SARIF file to GitHub Code Scanning
       - name: Upload SARIF file to Code Scanning
-        uses: github/codeql-action/upload-sarif@v2
+        uses: github/codeql-action/upload-sarif@v3
         with:
           sarif_file: q.sarif
 
